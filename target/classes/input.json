@@ -1,0 +1,8 @@
+{
+  "name": "Mark",
+  "address": {
+    "street": "789 Oak St",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}
